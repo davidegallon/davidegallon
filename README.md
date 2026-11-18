@@ -1,4 +1,5 @@
 # Davide Gallon
+[Academic website](https://davidegallon.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=I9lLc9cAAAAJ)
 
 I am a PhD researcher in Applied Mathematics at the University of Münster. I work on diffusion models for scientific computing, neural methods for PDEs, and stochastic optimization.
 
@@ -22,4 +23,4 @@ I wrote and maintain the experimental software, including training and evaluatio
 
 [Code](https://github.com/deeplearningmethods/sad) · [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/05fb0f4e645cad23e0ab59d6b9901428-Abstract-Conference.html)
 
-[Academic website](https://davidegallon.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=I9lLc9cAAAAJ)
+
