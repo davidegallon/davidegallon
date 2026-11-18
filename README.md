@@ -13,7 +13,7 @@ I independently wrote the PyTorch implementation for PISD, a spectral diffusion 
 
 ### INEUS · NeurIPS 2026 · Coauthor
 
-I reorganized and polished the public research code and independently implemented the 100-dimensional nonlinear Black–Scholes experiment with default risk, with and without jumps.
+I implemented part of the numerical experiments for INEUS and prepared the code for public release.
 
 [Code](https://github.com/jdupret97/INEUS) · [Experiment guide](https://github.com/jdupret97/INEUS/blob/main/docs/nonlinear_black_scholes.md) · [Paper](https://arxiv.org/abs/2605.06281)
 
